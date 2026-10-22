@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mapData>
+    <marker>
+        <name>New York City</name>
+        <lng>-74.0060</lng>
+        <lat>40.7128</lat>
+    </marker>
+    <marker>
+        <name>London</name>
+        <lng>-0.1278</lng>
+        <lat>51.5074</lat>
+    </marker>
+</mapData>
