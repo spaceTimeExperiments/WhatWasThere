@@ -4,7 +4,7 @@ const container = document.getElementById("globe");
 
 const globePromise = globeletjs.initGlobe({
   container,
-  style: "/WhatWasThere/klokantech-basic-style-geojson-fixed.json",
+  style: "./klokantech-basic-style-geojson-fixed.json",
   center: [-100, 38.5],
   altitude: 6280,
   width: container.clientWidth + 512,
