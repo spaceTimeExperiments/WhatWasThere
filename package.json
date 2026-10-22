@@ -1,0 +1,26 @@
+{
+  "name": "whatwasthere",
+  "version": "1.0.0",
+  "description": "Welcome to WhatWasThere!",
+  "main": "main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spaceTimeExperiments/WhatWasThere.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/spaceTimeExperiments/WhatWasThere/issues"
+  },
+  "homepage": "https://github.com/spaceTimeExperiments/WhatWasThere#readme",
+  "devDependencies": {
+    "vite": "^8.3.5"
+  }
+}
